@@ -157,4 +157,4 @@ public class Maincompu {
 		}while(mainMenu!=6);
 	}
 
-}
+}//comentario

@@ -52,6 +52,6 @@ public class Computadoras {
 	}
 	
 	
-	
+	//modificacion para git
 
 }
