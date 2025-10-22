@@ -143,7 +143,7 @@ public class Maincompu {
 					
 					//eliminar
 					lista.remove(indice);
-					System.out.println("Se elimino el registro");
+					System.out.println("Se elimino el registro encontrado xd");
 				}catch(Exception e) {
 					System.out.println("No existe ese registro");
 					
